@@ -2,8 +2,8 @@ Create key
 
 A * B 
 find >>  N=pq\,
-\varphi (N)=(p-1)(q-1)\
-\varphi (N) 보단 작고, \varphi (N) & coprime find int e.
+\varphi (N)=(p-1)(q-1)\  <    \varphi (N) , 
+\varphi (N) & coprime find int e.
 
 c^{d}\equiv (m^{e})^{d}\equiv m^{{ed}}\equiv m^{{k(p-1)(q-1)+1}}\equiv m{\pmod  {N}}
 
